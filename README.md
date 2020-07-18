@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Ruby on Rails** and **ReactJS** at [the Flatiron School](www.flatironschool.com) and [Codesmith](www.codesmith.io).
 
+- 📝 Sometimes I write about cool stuff or share tips and tricks over on [my blog](http://dev.to/twiddlewakka).
+
 - 💬 I have a Masters in Philosophy from the University of Houston. I love talking about [analytic metaphysics](https://plato.stanford.edu/entries/metaphysics/#ProMetNewMet), [philosophy of language](https://plato.stanford.edu/entries/meaning/), and [logical quantification](https://plato.stanford.edu/entries/logic-ontology/). I've written about and given talks related to [my work](https://independent.academia.edu/TWWright) in fictional objects and ontology.
 
 - 📫 I love getting emails at [twright@hey.com](mailto:twright@hey.com). Feel free to reach out about anything.
