@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Workle**, a somewhat simple enterprise app designed specifically for my current company. It's written in Rails and styled with some Bootstrap and minimal JS.
 
-- 🌱 I’m currently learning **Ruby on Rails** and **ReactJS** at [the Flatiron School](www.flatironschool.com) and [Codesmith](www.codesmith.io).
+- 🌱 I’m currently learning **Ruby on Rails** and **ReactJS** at [the Flatiron School](www.flatironschool.com).
 
 - 📝 Sometimes I write about cool stuff or share tips and tricks over on [my blog](http://dev.to/twiddlewakka).
 
