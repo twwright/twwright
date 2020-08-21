@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-- 🔭 I’m currently working on a couple of different Rails projects:
+- 🔭 I’m working on a couple of different Rails projects:
 > [**Workle**](http://twwright.github.io/workle), a somewhat simple enterprise app designed specifically for my current company. It's written in Rails and styled with some Bootstrap and minimal JS.
 
 > [**DashDashHelp**](http://twwright.github.io/dashdashhelp), a community-driven web app for asking and answering questions while working through online course curriculum. It's written in Rails as a module project for the Flatiron School.
