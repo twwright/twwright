@@ -7,7 +7,7 @@
 
 > [**DashDashHelp**](http://twwright.github.io/dashdashhelp), a community-driven web app for asking and answering questions while working through online course curricum. It uses a Rails back-end and ERB templating for the front-end with a touch of Bootstrap.
 
-> [**Cover**](https://www.youtube.com/watch?v=KF38ucdMSmc), a single-page application completely customizable cover letter generator --- like madlibs for cover letters. Cover is a single-page application with a Javascript front-end backed by a Rails API.
+> [**Cover**](https://www.youtube.com/watch?v=KF38ucdMSmc), an entirely customizable cover letter generator --- like madlibs for cover letters. Cover is a single-page application with a Javascript front-end backed by a Rails API.
 
 - 🌱 I’m currently learning **Ruby on Rails** and **ReactJS** at [the Flatiron School](www.flatironschool.com). I also take courses at [CodeSmith](http://codesmith.io) to level up my vanilla **JavaScript** skills. I'm also finishing up Michael Hartl's very, very excellent [Ruby on Rails Tutorial](https://www.railstutorial.org) as part of his [Learn Enough](https://www.learnenough.com) series. I **highly** recommend it!
 
