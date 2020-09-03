@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-- 🔭 I'm a hobby developer, so I like to float between my pet projects. Currently, I'm working on:
+- 🔭 Like any amibitious learner, I like to float between pet projects to learn and try new stuff. Currently, I'm working on:
 > [**Workle**](http://twwright.github.io/workle), a somewhat simple enterprise app designed specifically for my current company. It's written in Rails and styled with some Bootstrap and minimal JS.
 
 >[**Wod.link**](http://twwright.github.io/wodlink), a digital gym "whiteboard" for managing a group fitness gym's workouts, athlete performances, and members-only social network. It's an adaptation built alongside the Hartl's  [Ruby on Rails Tutorial](https://www.railstutorial.org)
