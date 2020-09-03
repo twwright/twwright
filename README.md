@@ -1,11 +1,15 @@
 ### Hey there! 👋
 
-- 🔭 I’m working on a couple of different Rails projects:
+- 🔭 I'm a hobby developer, so I like to float between my pet projects. Currently, I'm working on:
 > [**Workle**](http://twwright.github.io/workle), a somewhat simple enterprise app designed specifically for my current company. It's written in Rails and styled with some Bootstrap and minimal JS.
 
-> [**DashDashHelp**](http://twwright.github.io/dashdashhelp), a community-driven web app for asking and answering questions while working through online course curriculum. It's written in Rails as a module project for the Flatiron School.
+>[**Wod.link**](http://twwright.github.io/wodlink), a digital gym "whiteboard" for managing a group fitness gym's workouts, athlete performances, and members-only social network. It's an adaptation built alongside the Hartl's  [Ruby on Rails Tutorial](https://www.railstutorial.org)
 
-- 🌱 I’m currently learning **Ruby on Rails** and **ReactJS** at [the Flatiron School](www.flatironschool.com). I'm also working my way through the material from Michael Hartl's excellent [Ruby on Rails Tutorial](https://www.railstutorial.org) as part of his [Learn Enough](https://www.learnenough.com) series. I **highly** recommend it!
+> [**DashDashHelp**](http://twwright.github.io/dashdashhelp), a community-driven web app for asking and answering questions while working through online course curricum. It uses a Rails back-end and ERB templating for the front-end with a touch of Bootstrap.
+
+> [**Cover**](https://www.youtube.com/watch?v=KF38ucdMSmc), a single-page application completely customizable cover letter generator --- like madlibs for cover letters. Cover is a single-page application with a Javascript front-end backed by a Rails API.
+
+- 🌱 I’m currently learning **Ruby on Rails** and **ReactJS** at [the Flatiron School](www.flatironschool.com). I also take courses at [CodeSmith](http://codesmith.io) to level up my vanilla **JavaScript** skills. I'm also finishing up Michael Hartl's very, very excellent [Ruby on Rails Tutorial](https://www.railstutorial.org) as part of his [Learn Enough](https://www.learnenough.com) series. I **highly** recommend it!
 
 - 📝 Sometimes I write about cool stuff or share tips and tricks over on [my blog](http://dev.to/twiddlewakka). I also mentor for the Ruby track on [Exercism.io](http://exercism.io).
 
