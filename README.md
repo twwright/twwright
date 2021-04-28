@@ -5,9 +5,9 @@
 
 > [**DashDashHelp**](http://twwright.github.io/dashdashhelp), a community-driven web app for asking and answering questions while working through online course curricum. It uses a **Rails** back-end and **ERB templating** for the front-end with a touch of Bootstrap. 
 
-> [**FoodExplorer**](http://twwright.github.io/foodexplorer), an obligatory CLI game that uses Spoonacular APIs to display nutritional data for random items. Fun fact: this was my first coding project!
-
 > [**Shorter-URL**](http://twwright.github.io/shorter-url), a underwhelmingly simple url-shortener written in **Python** using **Flask**, **Jinja**, and Bootstrap.
+
+> [**FoodExplorer**](http://twwright.github.io/foodexplorer), an obligatory CLI game that uses Spoonacular APIs to display nutritional data for random items. Fun fact: this was my first coding project!
 
 > [**Wod.link**](https://www.youtube.com/watch?v=fcXhaampLZQ), a digital gym "whiteboard" for managing a group fitness gym's workouts, athlete performances, and members-only social network. *(Coming soon)*
 
